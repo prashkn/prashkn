@@ -1,5 +1,7 @@
 # Hello! 👋
 
+## Quick Bio
+
 ```json
 {
   "name": "Prashant Naganaboyina",
@@ -21,7 +23,7 @@
 }
 ```
 
-## Technologies & Languages
+## Languages & Technologies
 
 ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&color=00ADD8)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=3776AB)
