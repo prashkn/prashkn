@@ -11,13 +11,7 @@
   },
   "work": {
     "incoming": "Tanium",
-    "internships": [
-      "SWE @ Tanium",
-      "SWE @ MetLife",
-      "SWE @ Capital One",
-      "Cloud Eng @ AbbVie",
-      "PM @ Cisco"
-    ]
+    "internships": ["Tanium", "MetLife", "Capital One", "@ AbbVie", "Cisco"]
   },
   "hobbies": [
     "Coffee",
