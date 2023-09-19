@@ -13,13 +13,11 @@
     "incoming": "Tanium",
     "internships": ["Tanium", "MetLife", "Capital One", "@ AbbVie", "Cisco"]
   },
-  "hobbies": [
-    "Coffee",
-    "Foodie",
-    "Farmer's Markets",
-    "Poker",
-    "League of Legends"
-  ]
+  "hobbies": ["Coffee", "Foodie", "Farmer's Markets", "Poker"],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/prashant-n/",
+    "portfolio": "https://www.prashantn.xyz/"
+  }
 }
 ```
 
@@ -31,7 +29,7 @@
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=&color=3178C6)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&color=A8B9CC)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&color=00599C)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&color=4E7896)
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
