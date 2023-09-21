@@ -13,7 +13,7 @@
   },
   "work": {
     "incoming": "Tanium",
-    "internships": ["Tanium", "MetLife", "Capital One", "@ AbbVie", "Cisco"]
+    "internships": ["Tanium", "MetLife", "Capital One", "AbbVie", "Cisco"]
   },
   "hobbies": ["Coffee", "Foodie", "Farmer's Markets", "Poker"],
   "socials": {
