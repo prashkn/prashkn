@@ -6,7 +6,7 @@
 {
   "name": "Prashant Naganaboyina",
   "education": {
-    "school": "University of Illinois at Urbana-Champaign",
+    "school": "University of Illinois Urbana-Champaign",
     "year": "Senior",
     "major": "Computer Science",
     "concentration": "Intelligence & Big Data"
