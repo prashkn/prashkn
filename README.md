@@ -7,14 +7,13 @@
   "name": "Prashant Naganaboyina",
   "work": {
     "full_time": ["Tanium"],
-    "internships": ["Tanium", "MetLife", "Capital One", "@ AbbVie", "Cisco"]
+    "internships": ["Tanium", "MetLife", "Capital One", "AbbVie", "Cisco"]
   },
   "education": {
     "school": "University of Illinois Urbana-Champaign",
     "major": "Computer Science",
     "concentration": "Intelligence & Big Data"
   },
-  "hobbies": ["Coffee", "Foodie", "Farmer's Markets", "Poker", "Hiking"],
   "socials": {
     "linkedin": "https://www.linkedin.com/in/prashant-n/",
     "portfolio": "https://www.prashantn.xyz/"
